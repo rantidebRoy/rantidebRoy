@@ -31,8 +31,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rantidebRoy&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rantidebRoy&layout=compact&theme=tokyonight" height="160"/>
-</p>
 
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rantidebRoy&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 ---
 
 <!-- Projects Section -->
