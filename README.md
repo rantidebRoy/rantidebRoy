@@ -1,7 +1,9 @@
 # Hi there 👋, I'm Rantideb Roy
 
 🚀 Passionate about Machine Learning, Backend Development, and Open Source.  
-🎓 CSE student at SUST 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&center=true&vCenter=true&lines=🎓+Studying+Computer+Science+And+Engineering+at+SUST;)](https://git.io/typing-svg)
+
 💡 Love solving problems and building real-world projects.
 
 
@@ -16,7 +18,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I+love+coding+💻;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I+love+coding+💻;Open+Source+Enthusiast)](https://git.io/typing-svg)
+
