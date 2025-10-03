@@ -41,7 +41,7 @@
 <!-- Projects Section -->
 ## 🚀 Featured Projects
 - 🔑 [Course Management System](https://github.com/rantidebRoy/Course_Management_System) — Java Servlet based course manager.  
-- 🎮 [Break The Bricks Game](https://github.com/rantidebRoy/BreakoutGame) — C++ SDL2 classic game .  
+- 🎮 [Break The Bricks Game](https://github.com/rantidebRoy/BreakoutGame) — A classic c++ game .  
 
 ---
 
